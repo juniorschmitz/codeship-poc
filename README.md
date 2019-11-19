@@ -9,3 +9,5 @@ TODO:
 - add codeship configuration file;
 - select tests to run;
 - configure the codeship ui to run the tests.
+
+Testing first build
