@@ -1,0 +1,6 @@
+codeship_example:
+  build:
+    image: ui_aut_sample
+    dockerfile: Dockerfile
+  environment:
+    SAMPLE_VAR: potato
