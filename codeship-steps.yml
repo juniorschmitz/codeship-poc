@@ -1,0 +1,8 @@
+- name: build
+  tag: master
+  service: codeship_example
+  command: bundle install
+-name: run
+  tag: master
+  service: codeship_example
+  command: bundle exec cucumber
